@@ -71,6 +71,7 @@
 			</focusedlayout>
 		</control>
 		<control type="group">
+			<visible>String.IsEmpty(Window(Home).Property(culrc.hidedialog))</visible>
 			<animation effect="fade" start="100" end="0" time="200" condition="!String.IsEmpty(Window(Home).Property(culrc.hidedialog)) + ![Window.IsActive(musicosd) | Player.ShowInfo]">Conditional</animation>
 			<control type="label">
 				<description>Scraper label</description>
