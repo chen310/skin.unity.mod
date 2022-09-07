@@ -895,3 +895,7 @@ msgstr "SİSTEM"
 msgctxt "#31960"
 msgid "RADIO"
 msgstr "RADYO"
+
+msgctxt "#31395"
+msgid "Custom"
+msgstr ""

@@ -903,3 +903,7 @@ msgstr "ስርአቱ"
 msgctxt "#31960"
 msgid "RADIO"
 msgstr "ራዲዮ"
+
+msgctxt "#31395"
+msgid "Custom"
+msgstr ""

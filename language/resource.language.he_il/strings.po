@@ -894,3 +894,7 @@ msgstr "מערכת"
 msgctxt "#31960"
 msgid "RADIO"
 msgstr "רדיו"
+
+msgctxt "#31395"
+msgid "Custom"
+msgstr ""

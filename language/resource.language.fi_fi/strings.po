@@ -893,3 +893,7 @@ msgstr "JÄRJESTELMÄ"
 msgctxt "#31960"
 msgid "RADIO"
 msgstr "Radio"
+
+msgctxt "#31395"
+msgid "Custom"
+msgstr ""

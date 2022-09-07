@@ -895,3 +895,7 @@ msgstr "系統"
 msgctxt "#31960"
 msgid "RADIO"
 msgstr "收音機"
+
+msgctxt "#31395"
+msgid "Custom"
+msgstr ""
