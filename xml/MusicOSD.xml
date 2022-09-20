@@ -284,6 +284,18 @@
 					<usealttexture>String.IsEmpty(Skin.String(LyricScript_Path))</usealttexture>
 					<visible>!MusicPlayer.Content(LiveTV)</visible>
 				</control>
+				<control type="button" id="5008">
+					<width>40</width>
+					<height>40</height>
+					<label>31083</label>
+					<font></font>
+					<texturefocus colordiffuse="$INFO[Skin.String(color.500)]">LyricsSettings.png</texturefocus>
+					<texturenofocus colordiffuse="$INFO[Skin.String(color.text)]">LyricsSettings.png</texturenofocus>
+					<alttexturefocus colordiffuse="$INFO[Skin.String(color.500)]">LyricsSettings.png</alttexturefocus>
+					<alttexturenofocus colordiffuse="$INFO[Skin.String(color.text)]">LyricsSettings.png</alttexturenofocus>
+					<onclick>Addon.OpenSettings($INFO[Skin.String(LyricScript_Path)])</onclick>
+					<visible>!String.IsEmpty(Skin.String(LyricScript_Path))</visible>
+				</control>
 				<control type="button" id="500">
 					<width>40</width>
 					<height>40</height>
