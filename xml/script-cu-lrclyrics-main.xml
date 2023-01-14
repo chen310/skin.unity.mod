@@ -21,7 +21,7 @@
 			<aspectratio>scale</aspectratio>
 			<animation effect="fade" start="0" end="100" time="300">WindowOpen</animation>
 			<animation effect="fade" start="100" end="0" time="200">WindowClose</animation>
-			<texture colordiffuse="C2AAAAAA">$INFO[Player.Art(thumb)]</texture>
+			<texture colordiffuse="C2AAAAAA">$INFO[MusicPlayer.offset(0).Cover]</texture>
 		</control>
 		<control type="label">
 			<centerleft>50%</centerleft>
