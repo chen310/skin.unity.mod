@@ -66,7 +66,7 @@
 					<top>-2</top>
 					<width>263</width>
 					<height>263</height>
-					<texture fallback="DefaultAlbumCover.png">$INFO[Player.Art(thumb)]</texture>
+					<texture fallback="DefaultAlbumCover.png">$INFO[MusicPlayer.offset(0).Cover]</texture>
 					<aspectratio aligny="bottom">keep</aspectratio>
 					<bordertexture border="8">ThumbShadow.png</bordertexture>
 					<bordersize>8</bordersize>
