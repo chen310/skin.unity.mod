@@ -59,7 +59,7 @@
 						<aspectratio aligny="bottom">stretch</aspectratio>
 						<bordersize>5</bordersize>
 						<bordertexture colordiffuse="$INFO[Skin.String(color.500)]">backgrounds/square shadow small.png</bordertexture>
-						<texture fallback="DefaultAlbumCover.png">$INFO[Player.Art(thumb)]</texture>
+						<texture fallback="DefaultAlbumCover.png">$INFO[MusicPlayer.offset(0).Cover]</texture>
 					</control>
 					<!--labels-->
 					<control type="group">
