@@ -84,7 +84,7 @@
 					<width>269</width>
 					<height>402</height>
 					<aspectratio align="left" aligny="center">keep</aspectratio>
-					<texture background="true">$INFO[MusicPlayer.Cover]</texture>
+					<texture background="true">$INFO[$INFO[MusicPlayer.offset(0).Cover]]</texture>
 				</control>
 				<!--thumb-->
 				<control type="image">
